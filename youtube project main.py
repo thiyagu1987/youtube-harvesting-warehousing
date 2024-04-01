@@ -516,7 +516,7 @@ if st.button ("Channel_id storage"):
     
     else:
         insert = channel_details(channel_ids)
-        st.success(insert)
+        st.success("channel successfully found")
     
     
     
